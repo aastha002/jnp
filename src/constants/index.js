@@ -53,19 +53,19 @@ export const lawyers = [
   {
     name: "Adv. Rashmi Jha",
     title: "Partner | Industrial Disputes, DRT, Divorce, MACT",
-    image: "/src/assets/images/lawyer1.jpeg",
+    image: "/lawyer1.jpeg",
     bio: "Education: BCA (Ranchi University), MBA (LNMI Patna), LLB (Rajasthan University). Industry Experience: Legal advisor cum HR in leading corporate and government organizations. Membership: Bar Council of Delhi.",
   },
   {
     name: "Adv. Manikant Pandey",
     title: "Partner | Criminal Suit, Custom, Recovery Suit, Supply Chain",
-    image: "/src/assets/images/lawyer2.jpeg",
+    image: "/lawyer2.jpeg",
     bio: "Education: BA (Maths) & MIB (Jamia Millia Islamia, Delhi), LLB (CCS University Meerut). Industry Experience: Legal veteran with expertise in freight and logistics. Membership: Bar Council of Delhi.",
   },
   {
     name: "Adv. Yatish Jha",
     title: "Advocate | RERA, Civil Suit, NCLT, Consumer Court, NI Act, Real Estate",
-    image: "/src/assets/images/lawyer3.jpeg",
+    image: "/lawyer3.jpeg",
     bio: "Education: B.Com & MIB (Jamia Millia Islamia, Delhi), LLB (Rajasthan University). Industry Experience: Legal veteran in Banking/NBFC/Fintech. Membership: Bar Council of Delhi.",
   },
 ];
